@@ -1,3 +1,4 @@
+![EcoRoute PH Banner](https://raw.githubusercontent.com/christiandewinnery/eco-route-ph/main/EcoRoute PH.png)
 # EcoRoute PH
 
 **Developer:** Christian Dewin Nery  
