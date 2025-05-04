@@ -22,3 +22,18 @@ Useful for:
 - CORSIA-aligned SAF feasibility studies
 - Local route optimization
 - Emission reduction planning in logistics
+
+### Screenshots
+
+**Main Interface**
+![Main Interface](screenshots/ss1.PNG)
+
+**Routes Table**
+![Routes Table](screenshots/ss2.PNG)
+
+**Emissions Chart**
+![Emissions Chart](screenshots/ss3.PNG)
+
+**Interactive Map**
+![Interactive Map](screenshots/ss4.PNG)
+
